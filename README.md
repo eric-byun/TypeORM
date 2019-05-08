@@ -1,7 +1,6 @@
-# Awesome Project Build with TypeORM
+# TypeORM
+TypeORM grammar
 
-Steps to run this project:
+---
 
-1. Run `npm i` command
-2. Setup database settings inside `ormconfig.json` file
-3. Run `npm start` command
+[Link](https://cjstk7168.github.io/2019-04-29/Node%EC%97%90%EC%84%9C-ORM-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/)
